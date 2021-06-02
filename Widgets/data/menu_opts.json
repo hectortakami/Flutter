@@ -1,0 +1,40 @@
+{
+  "appName": "Flutter Widgets",
+  "routes": [
+    {
+      "route": "alert",
+      "icon": "add_alert",
+      "text": "Alerts"
+    },
+    {
+      "route": "avatar",
+      "icon": "accessibility",
+      "text": "Avatars"
+    },
+    {
+      "route": "card",
+      "icon": "folder_open",
+      "text": "Cards"
+    },
+    {
+      "route": "animatedContainer",
+      "icon": "donut_large",
+      "text": "Animated"
+    },
+    {
+      "route": "inputs",
+      "icon": "inputs",
+      "text": "Inputs"
+    },
+    {
+      "route": "slider",
+      "icon": "slider",
+      "text": "Slider"
+    },
+    {
+      "route": "listview",
+      "icon": "listview",
+      "text": "Scroll List"
+    }
+  ]
+}
