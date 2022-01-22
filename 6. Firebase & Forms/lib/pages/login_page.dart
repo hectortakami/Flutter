@@ -36,7 +36,7 @@ class LoginPage extends StatelessWidget {
 class FormFields extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    final formProvider = Provider.of<FormProvider>(context);
+    final formProvider = Provider.of<LoginFormProvider>(context);
 
     return Form(
       key: formProvider.formKey,
